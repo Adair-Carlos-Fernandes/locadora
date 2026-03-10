@@ -1,1 +1,1 @@
-<php $teste = "Aqui o sistema é bruto";
+<php $teste = "O senhor é meu pastor nada me faltará .";
